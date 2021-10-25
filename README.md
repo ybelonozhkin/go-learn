@@ -1,4 +1,7 @@
 # go-learn
-Scraps of code for transferring from one computer to another.
 
-Go кepository for training.
+Go repository for training.
+
+Scraps of Go code for transferring from one computer to another.
+
+Nothing interesting here.
